@@ -35,7 +35,6 @@ public class QuicSearch {
                             }
                 
                             private void performSearch(String text) {
-                                // TODO Auto-generated method stub
                                 throw new UnsupportedOperationException("Unimplemented method 'performSearch'");
                             }
         });
